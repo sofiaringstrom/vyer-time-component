@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vyer-time-component/static/css/main.239920f1.chunk.css",
+    "main.js": "/vyer-time-component/static/js/main.2afe6cdc.chunk.js",
+    "main.js.map": "/vyer-time-component/static/js/main.2afe6cdc.chunk.js.map",
+    "runtime-main.js": "/vyer-time-component/static/js/runtime-main.8d47245d.js",
+    "runtime-main.js.map": "/vyer-time-component/static/js/runtime-main.8d47245d.js.map",
+    "static/js/2.e0dfc85b.chunk.js": "/vyer-time-component/static/js/2.e0dfc85b.chunk.js",
+    "static/js/2.e0dfc85b.chunk.js.map": "/vyer-time-component/static/js/2.e0dfc85b.chunk.js.map",
+    "index.html": "/vyer-time-component/index.html",
+    "precache-manifest.ff22904b62123f08b3dad475b62ae839.js": "/vyer-time-component/precache-manifest.ff22904b62123f08b3dad475b62ae839.js",
+    "service-worker.js": "/vyer-time-component/service-worker.js",
+    "static/css/main.239920f1.chunk.css.map": "/vyer-time-component/static/css/main.239920f1.chunk.css.map",
+    "static/js/2.e0dfc85b.chunk.js.LICENSE.txt": "/vyer-time-component/static/js/2.e0dfc85b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d47245d.js",
+    "static/js/2.e0dfc85b.chunk.js",
+    "static/css/main.239920f1.chunk.css",
+    "static/js/main.2afe6cdc.chunk.js"
+  ]
+}
